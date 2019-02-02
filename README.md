@@ -6,6 +6,7 @@
 [![Platform](https://img.shields.io/cocoapods/p/AutoBlurScreen.svg?style=flat)](https://cocoapods.org/pods/AutoBlurScreen)
 
 Tool to protect your user data from prying eyes. Easy to use just few lines of code and your user data will be more safe.
+[Also article on Medium you can find here.](https://medium.com/@tarasmarkevych/another-one-thing-to-protect-your-users-data-b4c239683ad1)
 ## Example
 
 To run the example project, clone the repo, and run  `pod install`  from the Example directory first.
