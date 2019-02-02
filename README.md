@@ -1,6 +1,6 @@
 # AutoBlurScreen 📱
 
-[![CI Status](https://img.shields.io/travis/Tarik/AutoBlurScreen.svg?style=flat)](https://travis-ci.org/Tarik/AutoBlurScreen)
+[![Build Status](https://travis-ci.org/4taras4/AutoBlurScreen.svg?branch=master)](https://travis-ci.org/4taras4/AutoBlurScreen)
 [![Version](https://img.shields.io/cocoapods/v/AutoBlurScreen.svg?style=flat)](https://cocoapods.org/pods/AutoBlurScreen)
 [![License](https://img.shields.io/cocoapods/l/AutoBlurScreen.svg?style=flat)](https://cocoapods.org/pods/AutoBlurScreen)
 [![Platform](https://img.shields.io/cocoapods/p/AutoBlurScreen.svg?style=flat)](https://cocoapods.org/pods/AutoBlurScreen)
