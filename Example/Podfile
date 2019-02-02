@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'SafeDataScreen_Example' do
+  pod 'AutoBlurScreen', :path => '../'
+
+end

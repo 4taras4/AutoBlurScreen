@@ -1,0 +1,16 @@
+PODS:
+  - AutoBlurScreen (0.1.0)
+
+DEPENDENCIES:
+  - AutoBlurScreen (from `../`)
+
+EXTERNAL SOURCES:
+  AutoBlurScreen:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AutoBlurScreen: aaf544d8d793bc2d0f5c74115acea2b55ce1e7ff
+
+PODFILE CHECKSUM: 599e1de3a83dad26cd66c7dd1dcfd6be33e43043
+
+COCOAPODS: 1.6.0.beta.2

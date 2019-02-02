@@ -1,0 +1,6 @@
+framework module AutoBlurScreen {
+  umbrella header "AutoBlurScreen-umbrella.h"
+
+  export *
+  module * { export * }
+}
