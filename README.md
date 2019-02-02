@@ -57,12 +57,12 @@ Example of manual using blur screen
 ```swift
 import UIKit
 import AutoBlurScreen
-
-    var autoBlur = AutoBlurScreen()
-    autoBlur.blurStyle = .light // style of blur screen
-    autoBlur.isAutoBlur = false  // use auto enable or dissabled blur effect
-    autoBlur.createBlurEffect() // use to custom show blur screen
-    autoBlur.removeBlurEffect() // use to custom hide blur screen
+// custom implementation
+var autoBlur = AutoBlurScreen()
+autoBlur.blurStyle = .light // style of blur screen
+autoBlur.isAutoBlur = false  // use auto enable or dissabled blur effect
+autoBlur.createBlurEffect() // use to custom show blur screen
+autoBlur.removeBlurEffect() // use to custom hide blur screen
 ```
 ## Author 👨‍🔧
 
