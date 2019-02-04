@@ -26,7 +26,6 @@ TODO: AutoBlurScreen hide UI elements user сollapse application.
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Tarik' => '4taras4@gmail.com' }
   s.source           = { :git => 'https://github.com/4taras4/AutoBlurScreen.git', :tag => s.version.to_s }
-  s.social_media_url = 'https://twitter.com/lulz_ua'
   s.ios.deployment_target = '10.0'
   s.source_files = 'AutoBlurScreen/Classes/**/*'
 end
