@@ -1,6 +1,6 @@
 {
   "name": "AutoBlurScreen",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "AutoBlurScreen hide UI elements when user сollapse application.",
   "description": "TODO: AutoBlurScreen hide UI elements user сollapse application.",
   "homepage": "https://github.com/4taras4/AutoBlurScreen",
@@ -13,9 +13,8 @@
   },
   "source": {
     "git": "https://github.com/4taras4/AutoBlurScreen.git",
-    "tag": "0.1.0"
+    "tag": "0.1.1"
   },
-  "social_media_url": "https://twitter.com/lulz_ua",
   "platforms": {
     "ios": "10.0"
   },
